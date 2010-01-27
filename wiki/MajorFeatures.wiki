@@ -1,4 +1,4 @@
-== Major features ==
+
  
 *  BNT supports many types of *conditional probability distributions* (nodes), and it is easy to add more. 
  * Tabular (multinomial)
