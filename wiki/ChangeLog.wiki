@@ -3,7 +3,7 @@
  
 == Changes since 4 Oct 2007 ==
   
-= 19 Oct 07 murphyk =
+*19 Oct 07 murphyk*
  
   * BNT\CPDs\@noisyor_CPD\CPD_to_CPT.m: 2nd half of the file is a repeat of the first half and was deleted (thanks to Karl Kuschner)
  
@@ -11,13 +11,13 @@
  
  
  
-= 17 Oct 07 murphyk =
+*17 Oct 07 murphyk*
  
   * Updated subv2ind and ind2subv in KPMtools to Tom Minka's implementation. His ind2subv is faster (vectorized), but I had to modify it so it matched the behavior of my version when called with siz=[]. His subv2inv is slightly simpler than mine because he does not treat the siz=[2 2 ... 2] case separately. Note: there is now no need to ever use the C versions of these functions (or any others, for that matter).
  
   * removed BNT/add_BNT_to_path since no longer needed.
  
-= 4 Oct 07 murphyk =
+*4 Oct 07 murphyk*
  
   *  moved code from sourceforge to UBC website, made version 1.0.4
  
