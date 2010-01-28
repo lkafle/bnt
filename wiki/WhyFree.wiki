@@ -1,7 +1,7 @@
   
 == Why do I give the code away? ==
  
-  *  I was hoping for a Linux-style effect, whereby people would contribute their own Matlab code so that the package would grow. With a few exceptions, this has not happened, although several people have provided bug-fixes (see the [ThanksAndAcknowledgments   acknowledgements]). Perhaps the [Open Bayes Project] will be more succesful in this regard, although the evidence to date is not promising.
+  *  I was hoping for a Linux-style effect, whereby people would contribute their own Matlab code so that the package would grow. With a few exceptions, this has not happened, although several people have provided bug-fixes (see the [ThanksAndAcknowledgments   acknowledgements]). Perhaps the [http://people.cs.ubc.ca/~murphyk/OpenBayes/index.html Open Bayes Project] will be more succesful in this regard, although the evidence to date is not promising.
 
   *  Knowing that someone else might read your code forces one to document it properly, a good practice in any case, as anyone knows who has revisited old code. In addition, by having many "eye balls", it is easier to spot bugs.
 
