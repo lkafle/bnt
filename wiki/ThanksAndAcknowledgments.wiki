@@ -1,5 +1,6 @@
 == Acknowledgments ==
  
+I would like to thank Matt Dunham for setting up the bnt.googlecode.com.
  
 I would like to thank numerous people for bug fixes, including:
 Rainer Deventer, Michael Robert James, Philippe Leray, Pedrito Maynard-Reid II, Andrew Ng,
@@ -14,8 +15,6 @@ Ken Shan,
 Yair Weiss,
 Bob Welch,
 Ron Zohar.
-
-
 
  
 The following Intel employees have also contributed code:
