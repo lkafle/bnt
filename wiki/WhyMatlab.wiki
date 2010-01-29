@@ -15,4 +15,5 @@ license is expensive (although the student version is only $100 in the US).
 
  
 Many people ask me why I did not use Octave, an open-source Matlab clone.
-The reason is that Octave does not support multi-dimensional arrays,cell arrays, objects, etc.
+The reason is that, when I first wrote BNT,  Octave did not support multi-dimensional arrays,cell arrays, objects, etc. However, currently (Jan 2010) it does
+support those thins, so it should be possible to run most of BNT in Octave.
