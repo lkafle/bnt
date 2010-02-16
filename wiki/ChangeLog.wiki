@@ -1,5 +1,8 @@
  
 = History of changes to BNT =
+
+*16 Feb 2010 mdunham*
+  * Minor bug fixes to make Matlab 2009 compatible, e.g. replaced calls to deprecated finite function with isfinite, renamed custom assert, isscalar, and isvector functions assertBNT, isscalarBNT, isvectorBNT. 
  
 *28 Jan 2010 murphyk*
   * Matt Dunham helped me move the code and website to bnt.googlecode.com 
