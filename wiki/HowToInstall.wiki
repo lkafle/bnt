@@ -2,17 +2,6 @@ To install, just unzip FullBNT.zip, start Matlab, and proceed as follows
 {{{
 >> cd C:\kmurphy\FullBNT\FullBNT-1.0.4
 >> addpath(genpathKPM(pwd))
-
-Warning: Function C:\kmurphy\FullBNT\FullBNT-1.0.4\KPMtools\isvector.m has the same name as a MATLAB builtin. We suggest you rename the function to avoid a potential name conflict.
-> In path at 110
-  In addpath at 89
-Warning: Function C:\kmurphy\FullBNT\FullBNT-1.0.4\KPMtools\isscalar.m has the same name as a MATLAB builtin. We suggest you rename the function to avoid a potential name conflict.
-> In path at 110
-  In addpath at 89
-Warning: Function C:\kmurphy\FullBNT\FullBNT-1.0.4\KPMtools\assert.m has the same name as a MATLAB builtin. We suggest you rename the function to avoid a potential name conflict.
-> In path at 110
-  In addpath at 89
-
 >> test_BNT
 }}}
 
