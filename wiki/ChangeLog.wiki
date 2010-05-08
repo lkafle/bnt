@@ -1,6 +1,11 @@
  
 = History of changes to BNT =
 
+*07 May 2010 wsun*
+  * Bug fixed in \BNT\inference\static\@jtree_inf_engine\jtree_inf_engine.m: It is proved that the last clique created in the elimination process is not necessary to be a strong root for CLG model. Instead, we use a clique called interface clique, that contains all discrete parents and at least one continuous node from a connected continuous component, as a guaranteed strong room.
+
+  * Added one function \graph\findroot.m: this is to find the interface clique with max number of discrete parent nodes as the guaranteed strong root. 
+
 *16 Feb 2010 mdunham*
   * Minor bug fixes to make Matlab 2009 compatible, e.g. replaced calls to deprecated finite function with isfinite, renamed custom assert, isscalar, and isvector functions assertBNT, isscalarBNT, isvectorBNT. 
  
